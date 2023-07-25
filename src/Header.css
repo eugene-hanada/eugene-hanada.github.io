@@ -1,0 +1,41 @@
+.Header {
+    text-align: center;
+    background-color: #1c2128;
+    width: 100vw; /* ‰æ–Ê•‚Ì50%‚Ì• */
+}
+
+.Header ul {
+    display: flex;
+    list-style: none;
+    padding-left: 20%;
+    padding-right: 20%;
+    justify-content: space-between;
+}
+
+
+.Header li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+    .Header button {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        border: none;
+        outline: none;
+        background: transparent;
+        font-size: 100%;
+        -webkit-transition: all 0.3s ease;
+        -moz-transition: all 0.3s ease;
+        -o-transition: all 0.3s ease;
+        transition: all 0.3s ease;
+        color: #adbac7;
+        width: 20vw;
+    }
+
+.Header button:hover {
+    background-color: #2b3038;
+}
