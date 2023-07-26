@@ -1,8 +1,9 @@
 .Header {
     text-align: center;
     background-color: #1c2128;
-    width: 100vw; /* ‰æ–Ê•‚Ì50%‚Ì• */
+    width: 100vw;
 }
+
 
 .Header ul {
     display: flex;
@@ -34,6 +35,7 @@
         transition: all 0.3s ease;
         color: #adbac7;
         width: 20vw;
+        height: 5vh;
     }
 
 .Header button:hover {

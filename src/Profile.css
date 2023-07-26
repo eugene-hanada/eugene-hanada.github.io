@@ -1,0 +1,45 @@
+.Profile {
+}
+
+.Profile ul {
+    display: flex;
+    list-style: none;
+    padding-left: 20%;
+    padding-right: 20%;
+    justify-content: space-between;
+}
+
+
+.Profile li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Profile button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    border: none;
+    outline: none;
+    background: transparent;
+    font-size: 100%;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    color: #adbac7;
+    width: 20vw;
+}
+
+.Profile button:hover {
+    background-color: #2b3038;
+}
+
+.ProfileChild {
+    width: 100%; /* âÊñ ïùÇÃ50%ÇÃïù */
+    transform: scale(0.9);
+    border: 1px solid #adbac7;
+    overflow: hidden;
+}

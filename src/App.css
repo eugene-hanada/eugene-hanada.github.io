@@ -4,7 +4,9 @@
     width: 100vw; /* ‰æ–Ê•‚Ì50%‚Ì• */
     height: 100vh; /* ‰æ–Ê‚‚³‚Ì30%‚Ì‚‚³ */
     color: #adbac7;
+    font-size: clamp(15px, 2vw, 25px);
 }
+
 
 .App-logo {
   height: 40vmin;
