@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/eugene-hanada.github.io/static/css/main.2a14654b.css",
-    "main.js": "/eugene-hanada.github.io/static/js/main.fae126a9.js",
-    "static/js/787.425f66d6.chunk.js": "/eugene-hanada.github.io/static/js/787.425f66d6.chunk.js",
-    "static/media/Logo.png": "/eugene-hanada.github.io/static/media/Logo.022697a5f110b93fcaec.png",
-    "index.html": "/eugene-hanada.github.io/index.html",
-    "main.2a14654b.css.map": "/eugene-hanada.github.io/static/css/main.2a14654b.css.map",
-    "main.fae126a9.js.map": "/eugene-hanada.github.io/static/js/main.fae126a9.js.map",
-    "787.425f66d6.chunk.js.map": "/eugene-hanada.github.io/static/js/787.425f66d6.chunk.js.map"
+    "main.css": "/static/css/main.2a14654b.css",
+    "main.js": "/static/js/main.bf349745.js",
+    "static/js/787.425f66d6.chunk.js": "/static/js/787.425f66d6.chunk.js",
+    "static/media/Logo.png": "/static/media/Logo.022697a5f110b93fcaec.png",
+    "index.html": "/index.html",
+    "main.2a14654b.css.map": "/static/css/main.2a14654b.css.map",
+    "main.bf349745.js.map": "/static/js/main.bf349745.js.map",
+    "787.425f66d6.chunk.js.map": "/static/js/787.425f66d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a14654b.css",
-    "static/js/main.fae126a9.js"
+    "static/js/main.bf349745.js"
   ]
 }
