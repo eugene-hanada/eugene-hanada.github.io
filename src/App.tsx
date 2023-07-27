@@ -16,9 +16,10 @@ const App: React.FC = () => {
             <Header/>
             <Routes>
                 <Route index element={<Home />} />
-                <Route path="Home" element={<Home />} />
-                <Route path="Works" element={<Works />} />
-                <Route path="Profile" element={<Profile />} />
+                <Route path="/Home" element={<Home />} />
+                <Route path="/Works" element={<Works />} />
+                <Route path="/Profile" element={<Profile />} />
+                <Route path="*" element={<Home />} />
             </Routes>
         </div>
     );
