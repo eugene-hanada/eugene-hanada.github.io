@@ -13,14 +13,18 @@ import Works from './Works';
 const App: React.FC = () => {
     return (
         <div className="App">
-            <Header/>
+            <header>
+                <Header />
+            </header>
+            <body >
             <Routes>
                 <Route index element={<Home />} />
                 <Route path="/Home" element={<Home />} />
                 <Route path="/Works" element={<Works />} />
                 <Route path="/Profile" element={<Profile />} />
                 <Route path="*" element={<Home />} />
-            </Routes>
+                </Routes>
+            </body>
         </div>
     );
 }

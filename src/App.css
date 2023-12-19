@@ -7,6 +7,16 @@
     font-size: clamp(15px, 2vw, 25px);
 }
 
+    .App header {
+        position: fixed;
+        margin-top: -10%;
+    }
+
+    .App body {
+        margin-top:10%;
+    }
+
+
 
 .App-logo {
   height: 40vmin;
