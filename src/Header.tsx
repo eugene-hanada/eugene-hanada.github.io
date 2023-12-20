@@ -9,7 +9,7 @@ const Header: React.FC = () => {
 	const navi = useNavigate();
 	return (
 		<div className="Header">
-		<img src={logo} width="10%" height="10%"/>
+		<img src={logo} width="5%" height="5%"/>
 		<ul>
 			<li > <button onClick={() => { navi("/Home"); }}>Home</button> </li>
 			<li> <button onClick={() => { navi("/Works"); }}> Works</button> </li>
